@@ -64,6 +64,8 @@ A complete checklist cannot guarantee adoption. A missing GIF need not block a r
 
 For Show HN, it prepares an author facts brief rather than generated submission copy, respecting the [HN guidelines](https://news.ycombinator.com/newsguidelines.html). It never buys stars, coordinates votes, or publishes on your behalf without authorization.
 
+[See this repository’s own launch audit](docs/repository-audit.md), including the remaining gaps.
+
 ## Contribute
 
 Start with [CONTRIBUTING.md](CONTRIBUTING.md) and the [good first issues](https://github.com/LeonardSEO/github-viral-launch/labels/good%20first%20issue). Useful contributions improve the skill's decisions with a reproducible example, rather than adding generic advice.
