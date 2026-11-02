@@ -1,0 +1,6 @@
+interface:
+  display_name: "GitHub Viral Launch"
+  short_description: "16 launch checks for organic GitHub growth"
+  icon_small: "./assets/icon.png"
+  icon_large: "./assets/icon.png"
+  default_prompt: "Use $github-viral-launch to audit this repository, implement authorized local improvements, and prepare an organic launch package."

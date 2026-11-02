@@ -1,0 +1,16 @@
+name: Bug report
+description: Report an incorrect skill decision or broken installation.
+body:
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Reproduction
+      description: Agent/version, prompt, sanitized input, and steps. Never include secrets.
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true

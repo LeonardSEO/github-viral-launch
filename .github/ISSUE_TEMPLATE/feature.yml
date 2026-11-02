@@ -1,0 +1,15 @@
+name: Improvement
+description: Propose a focused improvement to the skill.
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem and real use case
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed behavior and alternatives
+    validations:
+      required: true
